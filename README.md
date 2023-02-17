@@ -1,2 +1,2 @@
-# AZU_AP_HomeWork
+# AZU. Advanced Programming class. Home work.
 Home work i guess ?
