@@ -1,4 +1,3 @@
 # AZU. Advanced Programming Class: Home work.
 
-+Why did programmer quit his job?
--He didnt get arrays
++There are three kinds of lies: Lies, damned lies, and benchmarks.
