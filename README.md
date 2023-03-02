@@ -1,3 +1,4 @@
 # AZU. Advanced Programming Class: Home work.
 
-+There are three kinds of lies: Lies, damned lies, and benchmarks.
++What did Java say to C?
+-You've got no Class!
