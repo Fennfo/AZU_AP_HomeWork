@@ -1,4 +1,4 @@
 # AZU. Advanced Programming Class: Home work.
 
-+What did Java say to C?
--You've got no Class!
+There are only 10 kinds of people in this world: 
+those who know binary and those who don’t.
